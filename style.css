@@ -19,8 +19,9 @@ main {
 }
 
 footer {
-  background-color: yellow;
-  border: 1px solid black;
+  background-color: rgb(14, 14, 13);
+  border: 1px solid rgb(213, 249, 8);
+  color: gold;
 }
 
 .bn31 {
